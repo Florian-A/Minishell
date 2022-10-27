@@ -7,7 +7,7 @@ L'objectif est de recréer un petit shell avec les caractéristiques suivantes :
 - Historique des commandes
 - Variables d'environements
 - Redirections et pipes
-- Signaux <kbd>ctrl</kbd> +  <kbd>c</kbd>, <kbd>ctrl</kbd> +  <kbd>d</kbd>, <kbd>ctrl</kbd> + <kbd>\</kbd>
+- Signaux <kbd>ctrl</kbd> +  <kbd>c</kbd>, <kbd>ctrl</kbd> +  <kbd>d</kbd>, <kbd>ctrl</kbd> + <kbd> \ </kbd>
 
 Ainsi que les builtins suivants :
 
