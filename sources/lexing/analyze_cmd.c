@@ -6,7 +6,7 @@
 /*   By: ███████ <███████@student.42lyon.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/10 12:27:36 by ███████           #+#    #+#             */
-/*   Updated: 2022/10/17 01:41:07 by ███████          ###   ########lyon.fr   */
+/*   Updated: 2022/10/27 13:49:58 by ███████          ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,7 +64,8 @@ int	analyze_cmd(t_list *lst)
 	node->builtin_id = get_builtin_id(((t_parsed_input *)lst->content)->input);
 	if (node->builtin_id != 0)
 		return (0);
-		absolute_path1 = get_absolute_path(((t_parsed_input *)lst->content)->input);
+		absolute_path1 = get_absolute_path(((t_parsed_input *)lst->\
+		content)->input);
 	if (absolute_path1 != NULL)
 	{
 		node->path = ft_strdup(absolute_path1);
