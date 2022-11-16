@@ -99,6 +99,10 @@ Les tests unitaires s'executent de la façon suivante :
 
 <img src="./img/video1.gif" />
 
+### Intégration continue :
+
+[![norminette](https://github.com/Florian-A/Minishell/actions/workflows/norm.yml/badge.svg)](https://github.com/Florian-A/Minishell/actions/workflows/norm.yml) [![unit test + build](https://github.com/Florian-A/Minishell/actions/workflows/utest+build.yml/badge.svg)](https://github.com/Florian-A/Minishell/actions/workflows/utest+build.yml)
+
 ### Correction :
 
 | |
