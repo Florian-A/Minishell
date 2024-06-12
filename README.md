@@ -103,6 +103,8 @@ Les tests unitaires s'executent de la façon suivante :
 
 [![norminette](https://github.com/Florian-A/Minishell/actions/workflows/norm.yml/badge.svg)](https://github.com/Florian-A/Minishell/actions/workflows/norm.yml) [![unit test + build](https://github.com/Florian-A/Minishell/actions/workflows/utest+build.yml/badge.svg)](https://github.com/Florian-A/Minishell/actions/workflows/utest+build.yml)
 
+---
+
 ### Correction :
 
 | |
@@ -114,3 +116,11 @@ Les tests unitaires s'executent de la façon suivante :
 | Correcteur 1 | <img src="./img/correction1.png" style="zoom: 67%;" /> |
 | Correcteur 2 | <img src="./img/correction2.png" style="zoom:67%;" /> |
 | Correcteur 3 | <img src="./img/correction3.png" style="zoom:67%;" /> |
+
+---
+
+### Contributeurs
+
+| ![Yvan](https://github.com/ycurbill.png?size=75) | ![Kellian](https://github.com/florian-a.png?size=75) |
+|:-----------------------------------------------------------:|:--------------------------------------------------------:|
+| **[Yvan](https://github.com/ycurbill)**          | **[Florian](https://github.com/florian-a)**           |
