@@ -119,7 +119,7 @@ Les tests unitaires s'executent de la façon suivante :
 
 ---
 
-### Contributeurs
+### Contributeurs :
 
 | ![Yvan](https://github.com/ycurbill.png?size=75) | ![Kellian](https://github.com/florian-a.png?size=75) |
 |:-----------------------------------------------------------:|:--------------------------------------------------------:|
